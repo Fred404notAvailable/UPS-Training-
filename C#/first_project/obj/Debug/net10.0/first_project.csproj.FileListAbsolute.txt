@@ -1,0 +1,14 @@
+D:\UPS\c#\first_project\bin\Debug\net10.0\first_project.exe
+D:\UPS\c#\first_project\bin\Debug\net10.0\first_project.deps.json
+D:\UPS\c#\first_project\bin\Debug\net10.0\first_project.runtimeconfig.json
+D:\UPS\c#\first_project\bin\Debug\net10.0\first_project.dll
+D:\UPS\c#\first_project\bin\Debug\net10.0\first_project.pdb
+D:\UPS\c#\first_project\obj\Debug\net10.0\first_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPS\c#\first_project\obj\Debug\net10.0\first_project.AssemblyInfoInputs.cache
+D:\UPS\c#\first_project\obj\Debug\net10.0\first_project.AssemblyInfo.cs
+D:\UPS\c#\first_project\obj\Debug\net10.0\first_project.csproj.CoreCompileInputs.cache
+D:\UPS\c#\first_project\obj\Debug\net10.0\first_project.dll
+D:\UPS\c#\first_project\obj\Debug\net10.0\refint\first_project.dll
+D:\UPS\c#\first_project\obj\Debug\net10.0\first_project.pdb
+D:\UPS\c#\first_project\obj\Debug\net10.0\first_project.genruntimeconfig.cache
+D:\UPS\c#\first_project\obj\Debug\net10.0\ref\first_project.dll
