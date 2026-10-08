@@ -12,3 +12,4 @@ D:\UPS\c#\first_project\obj\Debug\net10.0\refint\first_project.dll
 D:\UPS\c#\first_project\obj\Debug\net10.0\first_project.pdb
 D:\UPS\c#\first_project\obj\Debug\net10.0\first_project.genruntimeconfig.cache
 D:\UPS\c#\first_project\obj\Debug\net10.0\ref\first_project.dll
+D:\UPS\C#\first_project\obj\Debug\net10.0\first_project.sourcelink.json

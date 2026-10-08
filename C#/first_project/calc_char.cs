@@ -1,5 +1,5 @@
 using System;
-public class Calc
+public class Calci
 {
     public static void Main(string[] args)
     {
