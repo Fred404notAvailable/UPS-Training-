@@ -1,4 +1,4 @@
-iusing System;
+using System;
 
 class PopulationGrowth
 {
